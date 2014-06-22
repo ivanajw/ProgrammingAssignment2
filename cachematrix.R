@@ -1,4 +1,4 @@
-# Example usage:
+# Example:
 # Create a matrix x
 # x <- matrix(rnorm(9), nrow = 3)          
 # # Create special matrix object
